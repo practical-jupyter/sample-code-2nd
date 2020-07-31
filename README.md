@@ -1,4 +1,4 @@
-# PythonユーザのためのJupyter［実践］入門
+# 改訂版 Pythonユーザのための Jupyter[実践]入門
 
 TBD: 書影
 
