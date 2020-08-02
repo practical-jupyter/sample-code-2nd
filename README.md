@@ -1,9 +1,9 @@
 # 改訂版 Pythonユーザのための Jupyter[実践]入門
 
-TBD: 書影
+![cover](./assets/PythonJupyter-kaitei_hyo1.jpg)
 
-* [書籍公式ページ]()
-* [公式サポートページ（正誤表）]()
+* [書籍公式ページ](https://gihyo.jp/book/2020/978-4-297-11568-5)
+* TBD: [公式サポートページ（正誤表）]()
 
 ## サンプルコードについて
 
