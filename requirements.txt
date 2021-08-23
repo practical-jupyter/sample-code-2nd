@@ -1,4 +1,4 @@
-jupyterlab==2.1.5
+jupyterlab==2.2.10
 matplotlib==3.2.2
 seaborn==0.10.1
 pandas==1.0.5
